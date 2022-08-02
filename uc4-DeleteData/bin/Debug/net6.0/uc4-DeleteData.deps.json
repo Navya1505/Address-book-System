@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "uc4-DeleteData/1.0.0": {
+        "runtime": {
+          "uc4-DeleteData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uc4-DeleteData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\uc5-AddingMultipleContact.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\uc5-AddingMultipleContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\uc5-AddingMultipleContact.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\uc5-AddingMultipleContact.AssemblyInfo.cs
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\uc5-AddingMultipleContact.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\bin\Debug\net6.0\uc5-AddingMultipleContact.exe
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\bin\Debug\net6.0\uc5-AddingMultipleContact.deps.json
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\bin\Debug\net6.0\uc5-AddingMultipleContact.runtimeconfig.json
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\bin\Debug\net6.0\uc5-AddingMultipleContact.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\bin\Debug\net6.0\uc5-AddingMultipleContact.pdb
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\uc5-AddingMultipleContact.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\refint\uc5-AddingMultipleContact.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\uc5-AddingMultipleContact.pdb
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\uc5-AddingMultipleContact.genruntimeconfig.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc5-AddingMultipleContact\obj\Debug\net6.0\ref\uc5-AddingMultipleContact.dll

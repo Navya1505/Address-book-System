@@ -1,0 +1,15 @@
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\bin\Debug\net6.0\uc1-CreateContact.exe
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\bin\Debug\net6.0\uc1-CreateContact.deps.json
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\bin\Debug\net6.0\uc1-CreateContact.runtimeconfig.json
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\bin\Debug\net6.0\uc1-CreateContact.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\bin\Debug\net6.0\uc1-CreateContact.pdb
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\uc1-CreateContact.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\uc1-CreateContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\uc1-CreateContact.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\uc1-CreateContact.AssemblyInfo.cs
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\uc1-CreateContact.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\uc1-CreateContact.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\refint\uc1-CreateContact.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\uc1-CreateContact.pdb
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\uc1-CreateContact.genruntimeconfig.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc1-CreateContact\obj\Debug\net6.0\ref\uc1-CreateContact.dll

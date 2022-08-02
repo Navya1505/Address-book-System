@@ -1,0 +1,15 @@
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\bin\Debug\net6.0\uc3-Modifying.exe
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\bin\Debug\net6.0\uc3-Modifying.deps.json
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\bin\Debug\net6.0\uc3-Modifying.runtimeconfig.json
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\bin\Debug\net6.0\uc3-Modifying.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\bin\Debug\net6.0\uc3-Modifying.pdb
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\uc3-Modifying.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\uc3-Modifying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\uc3-Modifying.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\uc3-Modifying.AssemblyInfo.cs
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\uc3-Modifying.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\uc3-Modifying.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\refint\uc3-Modifying.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\uc3-Modifying.pdb
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\uc3-Modifying.genruntimeconfig.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc3-Modifying\obj\Debug\net6.0\ref\uc3-Modifying.dll

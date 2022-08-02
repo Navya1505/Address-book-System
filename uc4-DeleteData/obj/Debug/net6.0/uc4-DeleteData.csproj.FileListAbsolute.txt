@@ -1,0 +1,15 @@
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\bin\Debug\net6.0\uc4-DeleteData.exe
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\bin\Debug\net6.0\uc4-DeleteData.deps.json
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\bin\Debug\net6.0\uc4-DeleteData.runtimeconfig.json
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\bin\Debug\net6.0\uc4-DeleteData.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\bin\Debug\net6.0\uc4-DeleteData.pdb
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\uc4-DeleteData.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\uc4-DeleteData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\uc4-DeleteData.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\uc4-DeleteData.AssemblyInfo.cs
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\uc4-DeleteData.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\uc4-DeleteData.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\refint\uc4-DeleteData.dll
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\uc4-DeleteData.pdb
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\uc4-DeleteData.genruntimeconfig.cache
+C:\Users\geeth\source\repos\AddressBookSystem\uc4-DeleteData\obj\Debug\net6.0\ref\uc4-DeleteData.dll

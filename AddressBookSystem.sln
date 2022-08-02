@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookSystem", "AddressBookSystem\AddressBookSystem.csproj", "{E64F9F23-76CF-4A9C-99B1-2CF74E56611A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uc1-CreateContact", "uc1-CreateContact\uc1-CreateContact.csproj", "{5C5F58C4-6A67-4E66-ABD6-D05DF51C8EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uc2-AddingContact", "uc2-AddingContact\uc2-AddingContact.csproj", "{0D1A2F8E-AA38-4E69-B54C-C655D13117FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uc3-Modifying", "uc3-Modifying\uc3-Modifying.csproj", "{3C835CFD-B554-4BF3-8C2D-E0C62E268675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uc4-DeleteData", "uc4-DeleteData\uc4-DeleteData.csproj", "{E9E2C9E1-2263-4EE3-A6D1-275E9BCDCACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uc5-AddingMultipleContact", "uc5-AddingMultipleContact\uc5-AddingMultipleContact.csproj", "{AE201E37-7EF9-479B-B0A2-D5E0E2FFE268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64F9F23-76CF-4A9C-99B1-2CF74E56611A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64F9F23-76CF-4A9C-99B1-2CF74E56611A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64F9F23-76CF-4A9C-99B1-2CF74E56611A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64F9F23-76CF-4A9C-99B1-2CF74E56611A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5F58C4-6A67-4E66-ABD6-D05DF51C8EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5F58C4-6A67-4E66-ABD6-D05DF51C8EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5F58C4-6A67-4E66-ABD6-D05DF51C8EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5F58C4-6A67-4E66-ABD6-D05DF51C8EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1A2F8E-AA38-4E69-B54C-C655D13117FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1A2F8E-AA38-4E69-B54C-C655D13117FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1A2F8E-AA38-4E69-B54C-C655D13117FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1A2F8E-AA38-4E69-B54C-C655D13117FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C835CFD-B554-4BF3-8C2D-E0C62E268675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C835CFD-B554-4BF3-8C2D-E0C62E268675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C835CFD-B554-4BF3-8C2D-E0C62E268675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C835CFD-B554-4BF3-8C2D-E0C62E268675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E2C9E1-2263-4EE3-A6D1-275E9BCDCACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E2C9E1-2263-4EE3-A6D1-275E9BCDCACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E2C9E1-2263-4EE3-A6D1-275E9BCDCACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E2C9E1-2263-4EE3-A6D1-275E9BCDCACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE201E37-7EF9-479B-B0A2-D5E0E2FFE268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE201E37-7EF9-479B-B0A2-D5E0E2FFE268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE201E37-7EF9-479B-B0A2-D5E0E2FFE268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE201E37-7EF9-479B-B0A2-D5E0E2FFE268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64BB9ECB-9076-4014-84A9-CF2265888366}
+	EndGlobalSection
+EndGlobal
